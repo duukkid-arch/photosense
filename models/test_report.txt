@@ -1,0 +1,31 @@
+PhotoSense Test Set 评估报告
+======================================================================
+Top-1 准确率: 0.8201
+Top-5 准确率: 0.9646
+测试样本: 1440
+
+每类性能:
+  flower                  98.33%   59/60
+  pet_dog                 98.33%   59/60
+  landscape_sea           95.00%   57/60
+  landscape_sky           95.00%   57/60
+  pet_cat                 95.00%   57/60
+  drink                   93.33%   56/60
+  landscape_mountain      93.33%   56/60
+  concert                 86.67%   52/60
+  indoor_home             86.67%   52/60
+  product                 86.67%   52/60
+  city_skyline            83.33%   50/60
+  sunset_sunrise          83.33%   50/60
+  night_city              81.67%   49/60
+  portrait_outdoor        81.67%   49/60
+  dessert                 80.00%   48/60
+  food_western            80.00%   48/60
+  architecture            78.33%   47/60
+  sports                  76.67%   46/60
+  food_chinese            75.00%   45/60
+  portrait_night          71.67%   43/60
+  rain                    65.00%   39/60
+  selfie                  63.33%   38/60
+  portrait_indoor         61.67%   37/60
+  street                  58.33%   35/60
